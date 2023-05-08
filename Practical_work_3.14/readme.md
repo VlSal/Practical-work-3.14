@@ -28,13 +28,6 @@ LICENSE: [MIT](/task_4.1/license.md)
 18. [git revert](revert.md)
 19. [git clean](clean.md)
 
-
-
-
-
-
-
-
 ---
 
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
